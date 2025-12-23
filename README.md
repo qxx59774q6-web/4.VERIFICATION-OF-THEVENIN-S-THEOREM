@@ -1,5 +1,7 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
+AJAY S (252225050002)
+
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
